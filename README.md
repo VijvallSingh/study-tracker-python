@@ -34,6 +34,9 @@ study_tracker/
 │── data.json
 │── README.md
 
+Edit README → change a word → commit
+Add small comment in code → commit
+
 
 ## Purpose
 This project was created as part of a BYOP (Bring Your Own Project) assignment to solve a real-world problem of tracking study habits.
